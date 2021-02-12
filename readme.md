@@ -11,6 +11,6 @@
 
 <p>"Não há ignorancia, há conhecimento"</p>
 
-https://www.github.com/daniel-kenobi
-https://www.linkedin.com/in/daniel-felipe-a712821b4/
-https://www.facebook.com/kaosbrasilis832/
+<p>https://www.github.com/daniel-kenobi</p>
+<p>https://www.linkedin.com/in/daniel-felipe-a712821b4/</p>
+<p>https://www.facebook.com/kaosbrasilis832/</p>
