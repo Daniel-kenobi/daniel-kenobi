@@ -1,8 +1,8 @@
 <h1><b>Hello, World!</b></h1>
 <p>Sejam todos bem-vindos, eu sou Daniel-Kenobi, um padawan apaixonado por programação e tecnologia!</p>
-<p>Estudante de desenvolvimento de software a 1 ano, cursando ciencias da computação e tenho diversas habilidades e já trabalhei em diversos projetos pessoais e entre eles estão o desenvolvimento de API para criação de curriculo em ASP.NET, software de criação de contrato, para a empresa em que trabalho, projeto de cadastro de produtos em C# e as minhas linguagens de trabalho são:</p>
+<p>Estudante de desenvolvimento de software. Curso análise e desenvolvimento de sistemas, e já trabalhei em diversos projetos, como serviços de automação, aplicações web, desenvolvimento de rest API,S e diversas aplicações desktops. Possuo maior expertise em backend utilizando a infraestrutura .net, e minhas linguagens de trabalho são:</p>
 <ol>
-<li>C#</li>
+<li>C# (.NET/.NET CORE)</li>
 <li>Angular</li>
 <li>Typescript/Javascript</li>
 <li>SQL</li>
