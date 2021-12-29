@@ -9,6 +9,3 @@
 </ol>
 
 <p>"A Força estará com você, sempre." - Obi-Wan Kenobi</p>
-
-<p>https://www.github.com/daniel-kenobi</p>
-<p>https://www.linkedin.com/in/daniel-felipe-a712821b4/</p>
