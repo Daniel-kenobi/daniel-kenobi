@@ -1,6 +1,6 @@
-## Hello, World!
+## Hello there.
 <p>Sejam todos bem-vindos. Eu sou Daniel-Kenobi, um padawan nas artes do desenvolvimento de software!</p>
-<p>Sou estudante de Análise e desenvolvimento de sistemas, possuo diversas habilidades com criação e desenvolvimento de Aplicações Web. Possuo maior expertise em .NET backend e no momento trabalho como desenvolvedor.NET backend.</p>
+<p>Sou estudante de Análise e desenvolvimento de sistemas, possuo diversas habilidades com criação e desenvolvimento de Aplicações Web. Possuo maior expertise em C# .NET backend e no momento trabalho como desenvolvedor backend.</p>
 
 <div align="center">
   <a href="https://github.com/daniel-kenobi">
